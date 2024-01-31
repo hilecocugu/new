@@ -1,1 +1,1 @@
-local whplr = ["var0lmayank","wthwhyyyy8","ARealPerson29","TheActualJ123"]
+ ["var0lmayank","wthwhyyyy8","ARealPerson29","TheActualJ123"]
