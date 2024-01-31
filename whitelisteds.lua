@@ -1,6 +1,1 @@
-local whplr = {
-  "var0lmayank",
-  "wthwhyyyy8"
-  "TheActualJ123"
-  "ARealPerson29"
-}
+local whplr = ["var0lmayank","wthwhyyyy8","ARealPerson29","TheActualJ123"]
